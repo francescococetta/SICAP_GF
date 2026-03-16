@@ -128,6 +128,15 @@ $$
 
 ---
 
+## Repository structure
+
+. \
+|── script_structure.ipynb Main analysis notebook \
+|── compute_weights.ipynp Notebook for computing grid weights \
+└── README.md
+
+---
+
 ## Requirements
 
 The code is written in **Python 3** and requires the following packages:
